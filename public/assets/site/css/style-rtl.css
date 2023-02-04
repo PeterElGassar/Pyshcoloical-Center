@@ -13612,7 +13612,7 @@ svg {
 	height: 56px;
 	overflow: hidden;
 	position: absolute;
-	z-index: 1;
+	z-index: 5;
 }
 .power-ribbon span {
 	position: absolute;
